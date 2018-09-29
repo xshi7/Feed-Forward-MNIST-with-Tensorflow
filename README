@@ -1,2 +1,1 @@
-KNOWN BUGS: None
 Parameters: I chose the hidden size to be 200 after trying different size including 784 and 700, which do not give stable accuracies. 
